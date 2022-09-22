@@ -8,8 +8,7 @@
 - 📫 How to reach me? Write to my mail: vovk.valki@ukr.net
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YevhenVovk1992&theme=solarized_dark)
-
-                                                                                                        ![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=YevhenVovk1992)
 
 <!---
 YevhenVovk1992/YevhenVovk1992 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
