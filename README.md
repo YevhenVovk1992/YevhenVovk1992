@@ -9,7 +9,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YevhenVovk1992&theme=solarized_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YevhenVovk1992&theme=solarized_dark)
+                                                                                                        ![](https://komarev.com/ghpvc/?username=your-github-username)
 
 <!---
 YevhenVovk1992/YevhenVovk1992 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
